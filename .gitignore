@@ -1,0 +1,15 @@
+i# Editor / IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+
+# Temporary files
+*.swp
+*.swo
+*~
